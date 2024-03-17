@@ -1,0 +1,2 @@
+- Create table
++ Add new attribute
