@@ -1,0 +1,1 @@
+In DIW, just need to create a scheduled that run every day and drop instance to 0, time in the future and start at 1:00AM
