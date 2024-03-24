@@ -1,0 +1,4 @@
+- Create a user group
+- Create policy for it
+- Create user of that group
+- Can attach policy to that group later
